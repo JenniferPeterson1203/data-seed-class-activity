@@ -1,1 +1,165 @@
-{}
+{
+  "vegetables": [
+    {
+      "id": "abc123",
+      "name": "Carrot",
+      "color": "Orange",
+      "taste": "Sweet",
+      "nutrients": ["Vitamin A", "Vitamin K", "Potassium"]
+    },
+    {
+      "id": "xyz456",
+      "name": "Broccoli",
+      "color": "Green",
+      "taste": "Nutty",
+      "nutrients": ["Vitamin C", "Fiber", "Calcium"]
+    },
+    {
+      "id": "123def",
+      "name": "Tomato",
+      "color": "Red",
+      "taste": "Juicy",
+      "nutrients": ["Vitamin C", "Lycopene", "Potassium"]
+    },
+    {
+      "id": "456ghi",
+      "name": "Spinach",
+      "color": "Green",
+      "taste": "Leafy",
+      "nutrients": ["Iron", "Vitamin K", "Folate"]
+    },
+    {
+      "id": "789jkl",
+      "name": "Bell Pepper",
+      "color": "Yellow",
+      "taste": "Crisp",
+      "nutrients": ["Vitamin A", "Vitamin C", "Fiber"]
+    },
+    {
+      "id": "mno012",
+      "name": "Cucumber",
+      "color": "Green",
+      "taste": "Refreshing",
+      "nutrients": ["Vitamin K", "Potassium", "Magnesium"]
+    },
+    {
+      "id": "pqr345",
+      "name": "Potato",
+      "color": "Brown",
+      "taste": "Starchy",
+      "nutrients": ["Vitamin C", "Potassium", "Fiber"]
+    },
+    {
+      "id": "stu678",
+      "name": "Eggplant",
+      "color": "Purple",
+      "taste": "Spongy",
+      "nutrients": ["Fiber", "Vitamin K", "Folate"]
+    },
+    {
+      "id": "vwx901",
+      "name": "Zucchini",
+      "color": "Green",
+      "taste": "Mild",
+      "nutrients": ["Vitamin C", "Fiber", "Manganese"]
+    },
+    {
+      "id": "yzabc2",
+      "name": "Kale",
+      "color": "Dark Green",
+      "taste": "Robust",
+      "nutrients": ["Vitamin K", "Vitamin A", "Fiber"]
+    },
+    {
+      "id": "def345",
+      "name": "Lettuce",
+      "color": "Light Green",
+      "taste": "Crisp",
+      "nutrients": ["Vitamin K", "Vitamin A", "Fiber"]
+    },
+    {
+      "id": "ghi678",
+      "name": "Cauliflower",
+      "color": "White",
+      "taste": "Mild",
+      "nutrients": ["Vitamin C", "Fiber", "Folate"]
+    },
+    {
+      "id": "jkl901",
+      "name": "Radish",
+      "color": "Red",
+      "taste": "Peppery",
+      "nutrients": ["Vitamin C", "Potassium", "Fiber"]
+    },
+    {
+      "id": "mno234",
+      "name": "Artichoke",
+      "color": "Green",
+      "taste": "Nutty",
+      "nutrients": ["Fiber", "Vitamin C", "Magnesium"]
+    },
+    {
+      "id": "pqr567",
+      "name": "Beetroot",
+      "color": "Red",
+      "taste": "Sweet",
+      "nutrients": ["Folate", "Iron", "Vitamin C"]
+    },
+    {
+      "id": "stu890",
+      "name": "Sweet Potato",
+      "color": "Orange",
+      "taste": "Sweet",
+      "nutrients": ["Vitamin A", "Vitamin C", "Fiber"]
+    },
+    {
+      "id": "vwx123",
+      "name": "Asparagus",
+      "color": "Green",
+      "taste": "Tender",
+      "nutrients": ["Vitamin K", "Vitamin C", "Folate"]
+    },
+    {
+      "id": "yz456",
+      "name": "Peas",
+      "color": "Green",
+      "taste": "Sweet",
+      "nutrients": ["Fiber", "Vitamin C", "Protein"]
+    },
+    {
+      "id": "abc789",
+      "name": "Cabbage",
+      "color": "Green",
+      "taste": "Crunchy",
+      "nutrients": ["Vitamin C", "Fiber", "Vitamin K"]
+    },
+    {
+      "id": "def012",
+      "name": "Onion",
+      "color": "White",
+      "taste": "Pungent",
+      "nutrients": ["Fiber", "Vitamin C", "Iron"]
+    },
+    {
+      "id": "ghi345",
+      "name": "Mushroom",
+      "color": "Brown",
+      "taste": "Earthy",
+      "nutrients": ["Vitamin D", "B Vitamins", "Selenium"]
+    },
+    {
+      "id": "jkl678",
+      "name": "Brussels Sprouts",
+      "color": "Green",
+      "taste": "Crisp",
+      "nutrients": ["Vitamin K", "Vitamin C", "Fiber"]
+    },
+    {
+      "id": "mno901",
+      "name": "Pumpkin",
+      "color": "Orange",
+      "taste": "Sweet",
+      "nutrients": ["Vitamin A", "Fiber", "Potassium"]
+    }
+  ]
+}
